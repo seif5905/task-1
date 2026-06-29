@@ -1,0 +1,23 @@
+body{
+    background-image: url(medical-doctor-background-illustration-ai-generative-free-photo.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.container{
+    margin-right: 50px;
+    margin-left: auto;
+    width: fit-content;
+}
+
+hr{
+    border: 2px solid blue;
+}
+
+label[for="query"]{
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 10%;
+}
